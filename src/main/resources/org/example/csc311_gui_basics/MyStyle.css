@@ -1,0 +1,56 @@
+.root{
+    -fx-background-color: #00c4ff;
+}
+
+#Hello{
+    -fx-background-color: #f60e68;
+    -fx-rotate: 25px;
+    -fx-translate-y: -175px;
+}
+
+#PressMe{
+    -fx-background-color: #f60e68;
+    -fx-translate-x: -180px;
+    -fx-rotate: -25px;
+}
+
+#DogeButton{
+    -fx-background-color: Gold;
+    -fx-translate-x: 75px;
+    -fx-translate-y: 75px;
+}
+
+
+#welcomeText {
+        -fx-font-size: 20px;
+        -fx-border-color: #040303;
+        -fx-background-color: #ffffff;
+        -fx-rotate: 25px;
+        -fx-font-family: 'monospace';
+        -fx-translate-x: 50px;
+        -fx-translate-y: -200px;
+}
+
+#WelcomeIn {
+    -fx-font-size: 16px;
+    -fx-border-color: #000;
+    -fx-background-color: lightgreen;
+    -fx-translate-x: -200px;
+    -fx-rotate: -25px;
+    -fx-font-family: "monospace";
+}
+
+#circle{
+    -fx-translate-x: 200px;
+    -fx-translate-y: -20px;
+}
+
+#Meme{
+    -fx-translate-y: 75px;
+    -fx-translate-x: -175px;
+}
+
+
+
+
+
